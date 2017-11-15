@@ -1,4 +1,4 @@
-# Ragnarson Ruby Style Guide
+# Ruby Style Guide
 
 ## Source Code Layout
 
